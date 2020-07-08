@@ -5,3 +5,7 @@ With each example I will attempt to give a basic demonstration of the pattern in
 <h3><a href="https://github.com/JoshuaSledden/design-patterns/tree/master/strategy">Strategy Pattern</a></h3>
 The strategy pattern defines a family of algorithms, encapsulates each one, and makes them interchangeable.
 Strategy lets the algorithm vary independantly from clients that use it.
+
+<h3><a href="https://github.com/JoshuaSledden/design-patterns/tree/master/observer">Observer Pattern</a></h3>
+The observer pattern defines a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically. 
+
