@@ -1,5 +1,5 @@
 <h1>Observer Pattern</h3>
-The strategy pattern defines a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically. 
+The observer pattern defines a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically. 
 
 <h2>UML class diagram</h2>
 <img src="https://www.dofactory.com/images/diagrams/net/observer.gif"/>
